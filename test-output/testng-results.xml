@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-11T15:40:46 EST" name="Default suite" finished-at="2022-12-11T15:40:48 EST" duration-ms="2065">
+    <groups>
+    </groups>
+    <test started-at="2022-12-11T15:40:46 EST" name="Default test" finished-at="2022-12-11T15:40:48 EST" duration-ms="2065">
+      <class name="TestAPI">
+        <test-method signature="m1()[pri:0, instance:TestAPI@759d26fb]" started-at="2022-12-11T15:40:46 EST" name="m1" finished-at="2022-12-11T15:40:48 EST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- TestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
